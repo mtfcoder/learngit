@@ -7,3 +7,4 @@ aabbbbbb
 append
 jjjjjj
 添加了一段文件
+edit 1 
